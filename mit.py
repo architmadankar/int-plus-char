@@ -1,5 +1,5 @@
 fp = open("sample.txt","r")
-m="@mitwpu.edu.in"
+m="@mitwpu.edu.in" #change to your desired suffix
 sum=""
 mylist=[]
 
