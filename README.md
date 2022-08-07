@@ -11,6 +11,9 @@ git clone https://github.com/architmadankar/int-plus-char.git
 cd int-plus-char
 
 ( make one file named sample.txt // Fill in your stuff )
-in command prompt 
+
+---
+
+###CMD
 
 python3 mit.py
