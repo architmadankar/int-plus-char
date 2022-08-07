@@ -14,6 +14,6 @@ cd int-plus-char
 
 ---
 
-###CMD
+### CMD
 
 python3 mit.py
